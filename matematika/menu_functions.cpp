@@ -9,3 +9,23 @@ void IBusko::exit() {
 void IBusko::study() {
 
 }
+
+void IBusko::study_summ() {
+    // TODO
+}
+
+void IBusko::study_substract() {
+    // TODO
+}
+
+void IBusko::study_multiply() {
+    // TODO
+}
+
+void IBusko::study_divide() {
+    // TODO
+}
+
+void IBusko::study_go_back() {
+    // TODO
+}
